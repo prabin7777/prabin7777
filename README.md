@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**prabin7777/prabin7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Damodar pokhrel 👋😄
 
 - 🔭 I’m currently working on flutter
 - 🌱 I’m currently learning Artificial intelligence
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on any projects about AI
+- 💬 Ask me about new inovation and new technology
+- 📫 How to reach me: you can contact me with my website https://www.damodarpokhrel.com.np/
+- 😄 Pronouns: prabin
+- ⚡ Fun fact: i love to watch movies
+
