@@ -2,7 +2,7 @@
 
 I am Damodar pokhrel 👋😄
 
-- 🔭 I’m currently working on flutter
+- 🔭 I’m currently working on flutter.
 - 🌱 I’m currently learning Artificial intelligence
 - 👯 I’m looking to collaborate on any projects about AI
 - 💬 Ask me about new inovation and new technology
