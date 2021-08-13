@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Damodar pokhrel 👋😄
+I am Damodar pokhrel 👋�😄😃
 
 - 🔭 I’m currently working on flutter.
 - 🌱 I’m currently learning Artificial intelligence
